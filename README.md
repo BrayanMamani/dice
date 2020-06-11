@@ -8,6 +8,8 @@ Flutter is Google's UI toolkit for building beautiful, natively compiled applica
 
 This repository presents you with an application that allows you to rotate two dice, it also has the application icon configured for Android and iOS.
 
+<img src="dice.gif" width="300">
+
 ## What you will need
 
 [SDK](https://dart.dev/get-dart), a Software Development Kit of Flutter that gives us the necessary tools to develop multiplatform applications. In addition to using an IDE like [Android Studio](https://developer.android.com/studio/), [IntelliJ IDEA](https://www.jetbrains.com/idea/) with the Dart plugin or  [Visual Studio Code](https://code.visualstudio.com/) with the Dart Code extension.
