@@ -6,7 +6,7 @@ Flutter is Google's UI toolkit for building beautiful, natively compiled applica
 
 ## About Dice
 
-This repository presents you with an application that allows you to rotate two dice, it also has the application icon configured for Android and iOS.
+This repository presents you with an application that allows you to rotate two dice randomly, it also has the application icon configured for Android and iOS.
 
 <img src="dice.gif" width="300">
 
